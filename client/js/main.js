@@ -37,7 +37,6 @@
                     // This resets the input box so its empty after a new tweet is submitted.        
                       $(newTweet).val(''); 
                     }
-                postData();
                 });
 
 
